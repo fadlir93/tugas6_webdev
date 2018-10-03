@@ -1,0 +1,43 @@
+body {	
+	background-color: #f8f8f8;
+}
+
+.harga, .nama{
+	width: ;
+}
+
+.gambar img{
+	height: 150px;
+	width: 150px;
+}
+
+.container{
+	width: 1100px;
+}
+
+.item img{
+	
+	min-height: 300px;
+	min-width: 350px;
+	max-width: 300px;
+	max-height: 300px;
+}
+
+.col-sm-4, #myCarousel{
+	border: 0px solid black
+}
+
+.col-sm-4{
+	text-align: center;	
+	border: 1px groove rgba(0, 0, 0, 0.57);
+}
+
+.footer1 {
+    background-color: #9b0000;
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	min-height: 50px;
+	text-align: center;
+	clear: both;
+	color: white;
+}
